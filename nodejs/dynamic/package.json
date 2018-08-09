@@ -1,0 +1,16 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Satoshi Iwaki",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "~4.16.3",
+    "body-parser": "~1.18.3"
+  }
+}
